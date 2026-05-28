@@ -29,5 +29,5 @@ Whether I am designing normalized database schemas or configuring automated CI/C
 
 ## 📫 Let's Connect!
 
-* **LinkedIn:** [veeru-reddy-0a1808202](www.linkedin.com/in/veera-reddy-0a1808202) 
+* **LinkedIn:** www.linkedin.com/in/veera-reddy-0a1808202
 * **Email:** veeruk1119@gmail.com 
